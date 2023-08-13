@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/guoqi.jpg</file>
+        <file>image/guoqi.png</file>
+        <file>image/OIP-C (1).jfif</file>
+        <file>image/China.png</file>
+    </qresource>
+</RCC>
